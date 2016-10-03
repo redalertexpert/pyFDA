@@ -1,4 +1,4 @@
-pyFDA License Agreement (MIT License)
+pyFDA License Agreement (MIT License) 
 --------------------------------------
 
 Copyright (c) 2014- The pyFDA Development Team
